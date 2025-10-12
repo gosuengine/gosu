@@ -1,0 +1,25 @@
+{
+  "name": "gosu",
+  "version": "0.0.1",
+  "description": "Free and Open Source game development engine",
+  "keywords": [
+    "game engine",
+    "gosu",
+    "gosu engine"
+  ],
+  "homepage": "https://github.com/gosuengine/gosu#readme",
+  "bugs": {
+    "url": "https://github.com/gosuengine/gosu/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gosuengine/gosu.git"
+  },
+  "license": "MIT",
+  "author": "Victor Chanil Park",
+  "type": "commonjs",
+  "main": "./src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
