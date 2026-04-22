@@ -1,6 +1,6 @@
 [submodule "refs/godot"]
 	path = refs/godot
-	url = https://github.com/godotengine/godot
+	url = git@github.com:godotengine/godot.git
 [submodule "refs/jayess-go"]
 	path = refs/jayess-go
 	url = git@github.com:project-jayess/jayess-go.git
